@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xuezhang911, I am currently a postdoctoral researcher at Plant biology department in Swedish University of Agriculture Sciences
 - 👀 I’m interested in epigenetics regulation in gene expression and transcription coordination in single cells
 - 🌱 I’m currently working on investigating about how transcription is coordinated at overlapping convergent gene pairs in single cells;
-To address this study, I mainly use bioinformatics analysis approach to select gene pairs of our interest and smFISH techniques to inspect their transcription in situ. From different bioinformatics analysis, I have accumulated experience in analyzing different bulk stranded RNAs-seq, bulk ChIP-seq and will also need to analyze scRNA-seq data lately. 
+To address this study, I mainly use bioinformatics analysis approaches to select gene pairs of our interest and smFISH techniques to inspect their transcription in situ. From different bioinformatics analysis, I have accumulated experience in analyzing different bulk stranded RNAs-seq, bulk ChIP-seq and will also need to analyze scRNA-seq data lately. 
 With the requirement of postdoc project , I have attended or joined multiple training courses organized by SciLife NBIS platfrom and Swedish University of Agriculture Sciences: 
 (1) Introduction to bioinformatics using NGS data
 (2) Epigenomics Data Analysis: from bulk to single cell
